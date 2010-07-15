@@ -1,0 +1,207 @@
+TTestApp
+v7
+r0
+t300803129.045354
+cCheck dependencies
+cProcessInfoPlistFile /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/Info.plist TestApp-Info.plist
+cCompileXIB /Users/vikashkhanna/Documents/xcodecode/TestApp/MainWindow.xib
+cProcessPCH /var/folders/Hn/HnUXX1QSEPmddDKnte6EDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp_Prefix-gbygfosilzcomvcfjrwgyxkyqsgk/TestApp_Prefix.pch.gch TestApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o /Users/vikashkhanna/Documents/xcodecode/TestApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestAppAppDelegate.o /Users/vikashkhanna/Documents/xcodecode/TestApp/Classes/TestAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp normal i386
+cGenerateDSYMFile /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app.dSYM /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp
+cTouch /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C38376E0000000000000132
+t1278752622
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/Classes/TestAppAppDelegate.h
+c000000004C3DACB10000000000000150
+t1279110321
+s336
+i<UIKit/UIKit.h>
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/Classes/TestAppAppDelegate.m
+c000000004C3DACB100000000000009C9
+t1279110321
+s2505
+i"TestAppAppDelegate.h"
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/MainWindow.xib
+c000000004C3DACB10000000000002108
+t1279110321
+s8456
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/TestApp_Prefix.pch
+c000000004C3DACB100000000000000B7
+t1279110321
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app
+t1279110329
+s204
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app.dSYM
+t1279110329
+s102
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/Info.plist
+t1279110327
+s591
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/MainWindow.nib
+t1279110327
+s984
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/PkgInfo
+t1279110327
+s8
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp
+t1279110329
+s15656
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList
+c000000004C3DACB70000000000000114
+t1279110327
+s276
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestAppAppDelegate.o
+t1279110328
+s46168
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+t1279110328
+s6320
+
+N/Users/vikashkhanna/Documents/xcodecode/TestApp/main.m
+c000000004C3DACB10000000000000172
+t1279110321
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/Hn/HnUXX1QSEPmddDKnte6EDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp_Prefix-gbygfosilzcomvcfjrwgyxkyqsgk/TestApp_Prefix.pch.gch
+t1279110328
+s15232016
+
+NTestApp-Info.plist
+c000000004C3DACB1000000000000038D
+t1279110321
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300803127#300803127#0(0"0(0#1#0"8622214176#0"0#
+
+CCompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestAppAppDelegate.o /Users/vikashkhanna/Documents/xcodecode/TestApp/Classes/TestAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300803128.691690
+e300803128.844667
+r1
+xCompileC
+xbuild/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestAppAppDelegate.o
+x/Users/vikashkhanna/Documents/xcodecode/TestApp/Classes/TestAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/vikashkhanna/Documents/xcodecode/TestApp/Classes/TestAppAppDelegate.m300803128#300803128#0(0"0(0#0#76"/Users/vikashkhanna/Documents/xcodecode/TestApp/Classes/TestAppAppDelegate.m8621562336#2036"    cd /Users/vikashkhanna/Documents/xcodecode/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -F/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/include -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -include /var/folders/Hn/HnUXX1QSEPmddDKnte6EDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp_Prefix-gbygfosilzcomvcfjrwgyxkyqsgk/TestApp_Prefix.pch -c /Users/vikashkhanna/Documents/xcodecode/TestApp/Classes/TestAppAppDelegate.m -o /Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestAppAppDelegate.o0#
+
+CCompileC build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o /Users/vikashkhanna/Documents/xcodecode/TestApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300803128.690864
+e300803128.820264
+r1
+xCompileC
+xbuild/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+x/Users/vikashkhanna/Documents/xcodecode/TestApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/vikashkhanna/Documents/xcodecode/TestApp/main.m300803128#300803128#0(0"0(0#0#54"/Users/vikashkhanna/Documents/xcodecode/TestApp/main.m8622309120#2000"    cd /Users/vikashkhanna/Documents/xcodecode/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -F/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/include -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -include /var/folders/Hn/HnUXX1QSEPmddDKnte6EDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp_Prefix-gbygfosilzcomvcfjrwgyxkyqsgk/TestApp_Prefix.pch -c /Users/vikashkhanna/Documents/xcodecode/TestApp/main.m -o /Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/vikashkhanna/Documents/xcodecode/TestApp/MainWindow.xib
+s300803127.418372
+e300803127.822036
+r1
+xCompileXIB
+x/Users/vikashkhanna/Documents/xcodecode/TestApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib300803127#300803127#0(0"0(0#0#62"/Users/vikashkhanna/Documents/xcodecode/TestApp/MainWindow.xib8621768480#597"    cd /Users/vikashkhanna/Documents/xcodecode/TestApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/MainWindow.nib /Users/vikashkhanna/Documents/xcodecode/TestApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app.dSYM /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp
+s300803129.021842
+e300803129.032850
+r1
+xGenerateDSYMFile
+x/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app.dSYM
+x/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/TestApp.app.dSYM build/Debug-iphonesimulator/TestApp.app/TestApp300803129#300803129#0(0"0(0#0#95"/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp8617858432#410"    cd /Users/vikashkhanna/Documents/xcodecode/TestApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp -o /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app.dSYM0#
+
+CLd /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp normal i386
+s300803128.844747
+e300803129.021688
+r1
+xLd
+x/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp
+xnormal
+xi386
+lSLF07#2@100"Link /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp300803128#300803129#0(0"0(0#0#0"8618580640#945"    cd /Users/vikashkhanna/Documents/xcodecode/TestApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator -F/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator -filelist /Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/TestApp0#
+
+CProcessInfoPlistFile /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/Info.plist TestApp-Info.plist
+s300803127.404484
+e300803127.418292
+r1
+xProcessInfoPlistFile
+x/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/Info.plist
+xTestApp-Info.plist
+lSLF07#2@26"Process TestApp-Info.plist300803127#300803127#0(0"0(0#0#66"/Users/vikashkhanna/Documents/xcodecode/TestApp/TestApp-Info.plist8621895936#506"    cd /Users/vikashkhanna/Documents/xcodecode/TestApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TestApp-Info.plist -genpkginfo /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app/Info.plist0#
+
+CProcessPCH /var/folders/Hn/HnUXX1QSEPmddDKnte6EDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp_Prefix-gbygfosilzcomvcfjrwgyxkyqsgk/TestApp_Prefix.pch.gch TestApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300803127.822193
+e300803128.690773
+r1
+xProcessPCH
+x/var/folders/Hn/HnUXX1QSEPmddDKnte6EDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp_Prefix-gbygfosilzcomvcfjrwgyxkyqsgk/TestApp_Prefix.pch.gch
+xTestApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile TestApp_Prefix.pch300803127#300803128#0(0"0(0#0#66"/Users/vikashkhanna/Documents/xcodecode/TestApp/TestApp_Prefix.pch8622315168#1883"    cd /Users/vikashkhanna/Documents/xcodecode/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -F/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/include -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/vikashkhanna/Documents/xcodecode/TestApp/build/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -c /Users/vikashkhanna/Documents/xcodecode/TestApp/TestApp_Prefix.pch -o /var/folders/Hn/HnUXX1QSEPmddDKnte6EDU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestApp_Prefix-gbygfosilzcomvcfjrwgyxkyqsgk/TestApp_Prefix.pch.gch0#
+
+CTouch /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app
+s300803129.032925
+e300803129.045310
+r1
+xTouch
+x/Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app
+lSLF07#2@93"Touch /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app300803129#300803129#0(0"0(0#0#0"8617727968#296"    cd /Users/vikashkhanna/Documents/xcodecode/TestApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vikashkhanna/Documents/xcodecode/TestApp/build/Debug-iphonesimulator/TestApp.app0#
+
